@@ -20,3 +20,6 @@ Question 6:
 Each /polls/38/ tells me which question I'm on. Adding results or vote tells me the results of question 38 or that I'm voting on question 38.
 I get a 404 page not found if I don't exclusively use numbers for the question ID.
 To fix this, I simply change int to str in the url paths.
+
+Question 7:
+It would be cumbersome to manually update the template file in case we want to change the url.
