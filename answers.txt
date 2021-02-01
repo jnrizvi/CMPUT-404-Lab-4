@@ -1,0 +1,8 @@
+Question 1:
+https://github.com/jnrizvi/CMPUT-404-Lab-4
+
+Question 2:
+It shows the defult debug Django page with the rocket ship animation saying
+The install worked successfully! Congratulations!
+
+Question 3:
