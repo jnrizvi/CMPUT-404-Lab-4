@@ -6,3 +6,17 @@ It shows the defult debug Django page with the rocket ship animation saying
 The install worked successfully! Congratulations!
 
 Question 3:
+A blank page with the text: "Hello, world. You're at the polls index."
+
+Question 4:
+We need Django migrations because that is how we apply the changes we make in our models
+to our database.
+
+Question 5:
+A login form for the superuser.
+You create the model class in models.py, then apply the models in admin.py.
+
+Question 6:
+Each /polls/38/ tells me which question I'm on. Adding results or vote tells me the results of question 38 or that I'm voting on question 38.
+I get a 404 page not found if I don't exclusively use numbers for the question ID.
+To fix this, I simply change int to str in the url paths.
