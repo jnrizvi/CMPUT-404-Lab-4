@@ -23,3 +23,8 @@ To fix this, I simply change int to str in the url paths.
 
 Question 7:
 It would be cumbersome to manually update the template file in case we want to change the url.
+
+Question 8:
+Django's generic views are useful to avoid repeating common code, and abstracts away some of the details.
+You should use generic views for simple where you're just displaying a list or something to save time.
+If your view is a little more complicated and dynamic, you may need to do it "the hard way".
